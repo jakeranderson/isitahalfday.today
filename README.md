@@ -1,0 +1,2 @@
+# isitahalfday.today
+isitahalfday.today
